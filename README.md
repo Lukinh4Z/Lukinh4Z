@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Lukinh4Z">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukinh4Z&show_icons=true&theme=algolia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukinh4Z&layout=compact&theme=algolia">
+  <img height="180em" src="https://github-readme-stats-lukinh4z.vercel.app/api?username=Lukinh4Z&show_icons=true&theme=algolia">
+  <img height="180em" src="https://github-readme-stats-lukinh4z.vercel.app/api/top-langs/?username=Lukinh4Z&layout=compact&theme=algolia">
   </a>
 </div>
 
@@ -25,8 +25,8 @@
 </div>
 
 ### Deployed Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lukinh4Z&repo=GitHubFetchApp&theme=algolia)](https://github.com/Lukinh4Z/GitHubFetchApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lukinh4Z&repo=Links&theme=algolia)](https://github.com/Lukinh4Z/Links)
+[![Readme Card](https://github-readme-stats-lukinh4z.vercel.app/api/pin/?username=Lukinh4Z&repo=GitHubFetchApp&theme=algolia)](https://github.com/Lukinh4Z/GitHubFetchApp)
+[![Readme Card](https://github-readme-stats-lukinh4z.vercel.app/api/pin/?username=Lukinh4Z&repo=Links&theme=algolia)](https://github.com/Lukinh4Z/Links)
 
 ## Reach me:
 <div align="center" style="display: inline_block"><br>
