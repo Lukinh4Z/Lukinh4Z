@@ -10,6 +10,8 @@
   </a>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lukinh4Z&repo=GitHubFetchApp&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center"  style="display: inline_block"><br>
   <img align="center" alt="Lucas-react" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Lucas-js" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
