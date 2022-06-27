@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, there! I'm Lucas Nunes de Carvalho
 
-<!--
-**Lukinh4Z/Lukinh4Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I work on Front-End Development
+- 🌱 Currently learning TypeScript
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Lukinh4Z">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Lukinh4Z&show_icons=true&theme=algolia">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukinh4Z&layout=compact&theme=algolia">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"  style="display: inline_block"><br>
+  <img align="center" alt="Lucas-react" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Lucas-js" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Lucas-ts" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Lucas-html" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Lucas-css" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Lucas-C" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Lucas-C" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div>
+
+## Reach me:
+<div align="center" style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/lucas-nunes-de-carvalho-ab36375a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/lukazns/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/lukaz_n95" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
