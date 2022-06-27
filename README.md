@@ -2,6 +2,7 @@
 
 - 🔭 I work on Front-End Development
 - 🌱 Currently learning TypeScript
+- He/him
 
 <div>
   <a href="https://github.com/Lukinh4Z">
