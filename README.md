@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/Lukinh4Z">
   <img height="179em" src="https://github-readme-stats-lukinh4z.vercel.app/api?username=Lukinh4Z&show_icons=true&theme=algolia">
-  <img height="179em" src="https://github-readme-stats-lukinh4z.vercel.app/api/top-langs/?username=Lukinh4Z&layout=compact&theme=algolia&langs_count=8">
+  <img height="179em" src="https://github-readme-stats-lukinh4z.vercel.app/api/top-langs/?username=Lukinh4Z&layout=compact&theme=algolia&langs_count=7">
   </a>
 </div>
 
