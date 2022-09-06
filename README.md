@@ -1,7 +1,7 @@
 # Hello, there! I'm Lucas Nunes de Carvalho
 
 - 🔭 I work on Front-End Development
-- 🌱 Currently learning Angular
+- 🌱 Currently learning Game Development
 - He/him
 
 <div>
