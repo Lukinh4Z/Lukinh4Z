@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Carvalho</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development** and **Game Development**
 
-- 🌱 I’m currently learning **SQL, MySQL**
+- 🌱 I’m currently learning **Unity and C#**
 
 - 📫 How to reach me **carvalholnunes@gmail.com**
 
